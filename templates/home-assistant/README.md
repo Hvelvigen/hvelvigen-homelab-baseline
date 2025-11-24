@@ -57,6 +57,7 @@ Small, focused YAML snippets demonstrating specific features.
 
 ### intuition/  
 A lifestyle and wellbeing centric extension for Home Assistant.
+
 ---
 
 ## Using These Templates
