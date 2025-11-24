@@ -1,0 +1,94 @@
+# Home Assistant Templates
+
+Welcome to the `templates/home-assistant/` section of the homelab baseline.  
+This folder provides clean, reusable, beginner‑friendly templates for common Home Assistant setups — without assuming you already know every YAML quirk known to humankind.
+
+Whether you're just starting out (“Why does indentation break *everything*?”) or you're a seasoned automation wizard with 200+ entities and a small fear of touching `configuration.yaml`, these templates are here to make life easier.
+
+---
+
+## What This Folder Contains
+
+This directory is structured to grow with your environment.  
+Each subfolder focuses on a specific category, with templates written to be:
+
+- lightweight  
+- readable  
+- adaptable  
+- and unlikely to summon the dreaded *Invalid YAML* error
+
+Think of this as the “starter kit” you *wish* existed when you first installed Home Assistant.
+
+---
+
+## Folder Structure
+
+```
+templates/
+└── home-assistant/
+    ├── sensors/
+    ├── automations/
+    ├── scripts/
+    ├── dashboards/
+    ├── packages/
+    ├── examples/
+    ├── intuition/
+    └── README.md   ← you are here
+```
+
+### sensors/  
+Ready‑to‑adapt templates for common sensor patterns (utility meters, network pings, system stats, etc).
+
+### automations/  
+Clean baseline automations with explanations.  
+Nothing too wild — just practical examples you can drop in without breaking your weekend.
+
+### scripts/  
+Useful HA scripts demonstrating structure, variables, and patterns.
+
+### dashboards/  
+Starter dashboard layouts to give you a clean jumping-off point (and avoid the “I added 57 cards and regret everything” phase).
+
+### packages/  
+Where full “bundle” examples live — combined sensors, automations, and scripts grouped by purpose.
+
+### examples/  
+Small, focused YAML snippets demonstrating specific features.
+
+### intuition/  
+A lifestyle and wellbeing centric extension for Home Assistant.
+---
+
+## Using These Templates
+
+1. Browse to the category you need.  
+2. Pick a template that matches what you're working on.  
+3. Copy it into your own HA config.  
+4. Adjust entity names to match your system.  
+5. Save → reload → observe results like a scientist awaiting questionable data.  
+
+These templates are intentionally minimal so you can understand the logic behind them — not just copy/paste blindly and hope the universe takes pity on your YAML.
+
+---
+
+## Who Is This For?
+
+Everyone:
+
+- Beginners who want working examples that aren’t overwhelming  
+- Intermediate users who want consistent structure  
+- Advanced users who don’t want to reinvent the wheel *again*  
+- Future‑you, who absolutely will not remember how you did something six months ago  
+
+No judgement here — Home Assistant YAML is ... a journey.
+
+---
+
+## Final Notes
+
+This is part of the wider Homelab Baseline project.  
+For deeper documentation, reusable patterns, and “why is this like this?” explanations, check the main project’s `/docs` and `/templates` folders.
+
+If you ever feel overwhelmed, take comfort in knowing Home Assistant breaks for everyone eventually — that’s why good templates exist.
+
+Enjoy, explore, and may your YAML always validate.
