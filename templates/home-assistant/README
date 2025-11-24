@@ -1,6 +1,6 @@
 # Home Assistant Templates
 
-Welcome to the `templates/home-assistant/` section of the homelab baseline.  
+Welcome to the 'templates/home-assistant/' section of the homelab baseline.  
 This folder provides clean, reusable, beginner‑friendly templates for common Home Assistant setups — without assuming you already know every YAML quirk known to humankind.
 
 Whether you're just starting out (“Why does indentation break *everything*?”) or you're a seasoned automation wizard with 200+ entities and a small fear of touching `configuration.yaml`, these templates are here to make life easier.
