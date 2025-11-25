@@ -55,8 +55,6 @@ Most homelabs include categories like:
 
 Each category should have its own pattern.
 
----
-
 ### Step 2 — Pick a pattern for each category
 Some common, effective patterns:
 
@@ -81,8 +79,6 @@ iot-gateway
 Themes are optional (colours, places, astronomy, etc.).  
 If used, apply them consistently and document the mapping.
 
----
-
 ### Step 3 — Decide on separators
 Use one separator style across your environment:
 
@@ -91,8 +87,6 @@ Use one separator style across your environment:
 - lowercase only
 
 Avoid mixing hyphens, underscores, and camelCase unless you have strong reasons.
-
----
 
 ### Step 4 — Make rules for versioning and instances
 Examples:
@@ -134,8 +128,6 @@ Document your naming rules once so future additions follow the same pattern.
 
 ### Step 5 — Apply patterns to each asset type
 
----
-
 ## Recommended Patterns by Asset Type
 
 ### 1. **Folders**
@@ -162,8 +154,6 @@ pve01
 ha01
 mon01
 
----
-
 ### 4. **Containers**
 Keep service names short and functional:
 plex
@@ -176,8 +166,6 @@ For multi-instance:
 nginx-proxy
 nginx-app
 
----
-
 ### 5. **Network & VLAN Naming**
 Keep names role-based and clear:
 vlan10-core
@@ -187,8 +175,6 @@ vlan40-media
 
 Hostnames should follow the same logic as VM names.
 
----
-
 ### 6. **Documentation**
 Use predictable naming for docs:
 overview.md
@@ -196,8 +182,6 @@ setup.md
 configuration.md
 troubleshooting.md
 operations.md
-
----
 
 ## Example Naming Scheme (Complete)
 Below is one example showing a consistent approach:
@@ -219,7 +203,6 @@ tooling/
 scripts/
 cleanup-logs.sh
 update-containers.ps1
-
 
 ---
 
