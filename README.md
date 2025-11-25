@@ -1,5 +1,7 @@
 # Hvelvigen Homelab Baseline
 
+*Ett helt valv för din homelab‑resa*
+
 A collection of modular, platform-agnostic baselines designed to help you build a clean, maintainable, and well-documented homelab.  
 Rather than defining one “correct” way to build a system, this repository presents **multiple valid approaches**, allowing you to mix, match, and adapt based on your environment and skill level.
 
