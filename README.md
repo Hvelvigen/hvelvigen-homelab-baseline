@@ -1,21 +1,18 @@
-# Hvelvigen *(uttalas/pronounced: "VEL-vee-yen")* Homelab Baseline
+# Hvelvigen Homelab Baseline
 
 *Ett helt valv för din homelab‑resa*
 
 A collection of modular, platform-agnostic baselines designed to help you build a clean, maintainable, and well-documented homelab.  
 Rather than defining one “correct” way to build a system, this repository presents **multiple valid approaches**, allowing you to mix, match, and adapt based on your environment and skill level.
 
-## Name
+## Name (EN_GB)
+*(uttalas/pronounced: "VEL-vee-yen")* 
 **Hvelvigen** is drawn from Swedish roots: *hel* (whole, complete) and *valv* (vault, arch), with the archaic **hv** spelling.  
 The meaning — *det hela valvet* (“the complete vault”) — reflects the repository’s role as a secure, structured place where code, documentation, and ideas are preserved.
 
-## Namn (SE)
+## Namn (SV_SE)
 **Hvelvigen** kommer från svenska ord: *hel* (hel, fullständig) och *valv* (valv, ark). Med den äldre stavningen **hv** får namnet en mer tidlös känsla.  
 Betydelsen — *det hela valvet* — speglar att detta repo är en trygg och strukturerad plats där kod, dokumentation och idéer bevaras.
-
-## Purpose
-Provide structured, repeatable starting points for documenting and building a homelab.  
-The baselines in this repository encourage best practices, clear organisation, and thoughtful configuration, while offering **alternative solutions** for common homelab tasks.
 
 ## Purpose
 Provide structured, repeatable starting points for documenting and building a homelab.  
