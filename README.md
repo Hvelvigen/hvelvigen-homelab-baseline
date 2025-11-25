@@ -1,4 +1,4 @@
-# Hvelvigen Homelab Baseline
+# Hvelvigen *(uttalas/pronounced: "VEL-vee-yen")* Homelab Baseline
 
 *Ett helt valv för din homelab‑resa*
 
