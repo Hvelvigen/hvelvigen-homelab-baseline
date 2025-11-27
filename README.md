@@ -35,12 +35,12 @@ This repository does *not* include:
 - Proprietary diagrams or layouts  
 
 ## Repository Structure
-/templates/ – reusable templates for documentation, config, and automation
-/systems/ – platform-specific baselines (Proxmox, Hyper-V, Home Assistant, Docker, Linux, etc.)
-/reference/ – command collections, cheat sheets, and best-practice notes
-/docs/ – written guidance on structure, naming, and homelab organisation
-/tooling/ – optional helper scripts and generic utilities
-/meta/ – repo governance, roadmap, and evolution notes
+- /templates/ – reusable templates for documentation, config, and automation
+- /systems/ – platform-specific baselines (Proxmox, Hyper-V, Home Assistant, Docker, Linux, etc.)
+- /reference/ – command collections, cheat sheets, and best-practice notes
+- /docs/ – written guidance on structure, naming, and homelab organisation
+- /tooling/ – optional helper scripts and generic utilities
+- /meta/ – repo governance, roadmap, and evolution notes
 
 
 ## Included Templates
@@ -84,8 +84,6 @@ The naming principles aim to support long-term maintainability:
 - predictable structure and naming  
 
 Detailed naming guidance is available in `/docs/naming.md`.
-
-
 
 ## Licence
 This repository is licensed under the GNU GENERAL PUBLIC LICENSE.  
